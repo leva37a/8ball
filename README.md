@@ -14,7 +14,7 @@
 Запуск:
 
 
-[ruby 8ball.rb]()
+ruby 8ball.rb
 
 Правила игры:
 
